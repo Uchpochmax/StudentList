@@ -1,0 +1,23 @@
+.input-block {
+    border-bottom: #b7b6b6 solid 1px;
+}
+.table-block {
+    margin-top: 32px;
+}
+.footer {
+    background-color: #F5F5F5;
+    margin-top: 32px;
+    margin-bottom: 0;
+}
+.footer_text {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.sort-column {
+    cursor: pointer;
+    transition: color .2s ease-in-out, background-color .2s ease-in-out;
+}
+.sort-column:hover {
+    background-color: #299511;
+    color: #ffffff;
+}
